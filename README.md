@@ -58,8 +58,7 @@ Data Engineer: 100
 Data Scientist: 0
 Insights
 
-## Based on the visualizations
-, the following insights can be drawn:
+## Based on the visualizations the following insights can be drawn:
 
 The survey was conducted with a relatively young audience, with an average age of 29.87.
 While there is a moderate level of satisfaction with work-life balance and salary, there is still room for improvement in both areas.
@@ -74,6 +73,6 @@ Collecting more data to increase the sample size and improve the accuracy of the
 Adding more visualizations to explore other aspects of the data, such as experience levels and industries.
 Incorporating interactive elements to allow users to filter and drill down into the data.
 
+![Capture](https://github.com/user-attachments/assets/239ddac6-fcda-4237-a596-192fdcbc0cc9)
 
-[data](https://github.com/user-attachments/assets/136aafaa-dfeb-4322-93c6-ebe9a6aabaa2)
-[Capture](https://github.com/user-attachments/assets/b74e817b-2c55-4eaa-924e-26975c146c10)
+![data](https://github.com/user-attachments/assets/43089aff-eb39-45c6-b5b4-21d36824bb13)
